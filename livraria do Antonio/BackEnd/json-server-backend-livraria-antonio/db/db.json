@@ -1,0 +1,55 @@
+{
+  "categorias": [
+    {
+      "nome": "a",
+      "id": 1
+    },
+    {
+      "nome": "categoria1",
+      "id": 2
+    },
+    {
+      "nome": "sa",
+      "id": 3
+    },
+    {
+      "nome": "as",
+      "id": 4
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "Editora1",
+      "id": 1
+    },
+    {
+      "nome": "Editora2",
+      "id": 3
+    },
+    {
+      "nome": "sa",
+      "id": 4
+    }
+  ],
+  "autores": [
+    {
+      "nome": "sa",
+      "id": 1
+    }
+  ],
+  "livros": [
+    {
+      "nome": "Harry",
+      "categoriaId": 2,
+      "editoraId": 3,
+      "autorId": 1,
+      "id": 4
+    },
+    {
+      "categoriaId": 1,
+      "editoraId": 3,
+      "autorId": 1,
+      "id": 5
+    }
+  ]
+}
